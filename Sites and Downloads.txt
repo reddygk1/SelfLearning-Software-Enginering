@@ -1,0 +1,7 @@
+Site to Install instructions
+
+https://www.webucator.com/blog/2015/03/installing-the-windows-64-bit-version-of-pygame/ 
+
+Installation file 
+
+pygame-1.9.2a0-cp35-none-win_amd64.whl

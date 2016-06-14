@@ -1,0 +1,13 @@
+25-05-16 = 1300 - 1500 (2 hour watching video tutorials)
+25-05-16 = 2000 - 2130 (1.5 hour understanding how to install Python and Pygame and installation)
+26-05-16 = 1045 - 1245 (2 Hours writing simple pygame codes) 
+28-05-16 = 1000 - 1400 (4 hours understanding how loops work in Python)
+30-05-16 = 1200 - 1430 (2.5 hours online video tutorial)
+03-05-16 = 1800 - 2200 (4 hours online video tutorials)
+11-05-16 = 1100 - 1630 (5.5 hours started building cricket game basic layout)
+12-05-16 = 1030 - 1600 (5.5 hours building Cricket game functioning)
+13-06-16 = 1900 - 2300 (4 Hours Struggling with collision detection and Ball movement)
+
+https://www.youtube.com/watch?v=-s4wKoLO520&index=6&list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_
+
+http://www.slideshare.net/nowells/introduction-to-python-5182313
